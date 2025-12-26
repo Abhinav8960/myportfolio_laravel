@@ -1,0 +1,7 @@
+<header>
+    <h1>My Portfolio</h1>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+    </nav>
+</header>
